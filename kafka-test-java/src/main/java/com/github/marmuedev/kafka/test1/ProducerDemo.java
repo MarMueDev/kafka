@@ -4,7 +4,7 @@ Zookeeper and kafka server have to be started at first
 Please change the bootstrapServers and topic as needed
 */
 
-package com.github.marmuedev.kafka.examples;
+package com.github.marmuedev.kafka.test1;
 
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.Producer;
